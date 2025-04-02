@@ -1,2 +1,2 @@
-# fisher
-tinyfishing
+# Fisher
+Bored of just playing normal Tiny Fishing? Use Fisher.
